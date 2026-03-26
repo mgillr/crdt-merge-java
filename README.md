@@ -6,7 +6,7 @@
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.optitransfer/crdt-merge.svg)](https://central.sonatype.com/artifact/io.optitransfer/crdt-merge)
 [![Java 17+](https://img.shields.io/badge/Java-17+-red.svg)](https://openjdk.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Tests: 79/79](https://img.shields.io/badge/tests-79%2F79-brightgreen.svg)](https://github.com/mgillr/crdt-merge-java)
 
 **Merge any two datasets in one function call. No conflicts. No coordination. No data loss.**
@@ -220,9 +220,13 @@ mvn test      # Run tests (79/79 passing)
 mvn package   # Create JAR
 ```
 
-## 📄 License
+## License
 
-MIT — use it for anything.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
+
+Copyright 2026 Ryan Gillespie / Optitransfer. See [NOTICE](NOTICE) for attribution requirements.
+
+For commercial licensing inquiries: leer@optitransfer.ch
 
 ---
 
