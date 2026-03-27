@@ -1,3 +1,10 @@
+/*
+ * Copyright 2026 Ryan Gillespie
+ * SPDX-License-Identifier: Apache-2.0
+ *
+ * Commercial licensing: data@optitransfer.ch, rgillespie83@icloud.com
+ */
+
 package io.optitransfer.crdtmerge;
 
 import io.optitransfer.crdtmerge.core.ORSet;
